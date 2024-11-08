@@ -36,7 +36,7 @@ if st.button("CLICK ME"):
 #         prob = round(probabilities[0,1] * 100,2)
 #         st.write(f"I'm {prob}% sure that's {classes[1]}!")
 #     else:
-        st.write("I'm not confident that I know what this is! ")
+        # st.write("I'm not confident that I know what this is! ")
 
     # End on balloons
-    st.balloons()
+    # st.balloons()
